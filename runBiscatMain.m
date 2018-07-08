@@ -63,11 +63,6 @@ function sim = runBiscatMain(varargin)
 %           timestamp: date and time the input signal was saved [string]
 %
 
-% Author:  Jason Gaudette
-% Date:    5/06/2009
-% Version: 0.3
-
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Input error and parameter checking

@@ -1,0 +1,34 @@
+===============================================================================
+Biscat Model Todo List:
+===============================================================================
+
+Bugs:
+- After loading config file, Neural Transduction subpanel does not match RCF, BIO, or RND selection
+- LIF model parameters - something preventing data entry & default to zero after load
+- Gammatone TF discontinuous below 20kHz (w/ 2MHz sampling rate)
+- Gammachirp takes very long time bouncing between prony/stmcb and yields invalid TF
+- Cheby I filter:  Shouldn't this be cheby II?
+- FIR LS bandwidth too wide (order too low???)
+- Cochlear Block panel should not allow you to deselect a filter type
+- Bandwidth/Q doesn't affect constant Q designs
+
+Immediate:
+- Add Meddis (2006) IHC neural transduction models
+- Add "absolute" refractory period to spike thinning algorithm
+- Add raster plot for visualizing neural discharge times across cell population (starting with AN)
+- Add LIF model per AN to simulate bushy cells in the AVCN
+
+Near-term:
+- Incorporate Rectification and Envelope Filter in Cochlear Filterbank section
+- Add binaural processing mode - input signal can be mono or stereo channels, mono channel duplicated until random generation
+
+Long-term:
+- Add vizualization (TS, SG, PWV) to post-outer/middle ear response
+- Add Meddis (2008) - AMS code/tutorials downloaded from Meddis' website
+- Add Heil model to Neural Transduction tab
+- Include external ear notch filter to include notch frequency for boresight incident sound (may be moved to HRTF if data exists)
+- Add DRNL filter to basilar membrane options
+- Incorporate monte-carlo analysis mode for non-deterministic models & simulation of SCAT w/ noise in signal
+- Change pole-zero plot to be more visual
+- Allow both absolute/refractory period in AN Response model
+

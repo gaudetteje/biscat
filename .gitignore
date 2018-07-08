@@ -1,0 +1,6 @@
+startup.m
+*.mexw64
+*.mexmaci64
+*.asv
+.svn
+.gitold

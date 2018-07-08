@@ -4,9 +4,7 @@ BiSCAT is an auditory modeling framework that is intended to be modular and expa
 
 The model can process monaural or binaural time series signals.  Integration between the two signals occurs only at the output stages.
 
-==============================================
-Directory Contents
-==============================================
+## Directory Contents
 
 Files:
 + biscat.m  -  main GUI interface to the modeling framework
@@ -26,18 +24,15 @@ Subfolders:
 + testbed_files  -  General data files used in developing model algorithms
 
 
-==============================================
-Requirements
-==============================================
+## Requirements
 
 BiSCAT is developed and tested on Windows and Mac OS X platforms using modern versions of MATLAB.  The simulator is not guaranteed to work on every platform or without certain toolboxes available.  Please submit any bugs to the author.
 
 Some custom MATLAB functions are required to run BiSCAT.  These are available from the author as a separate set of MATLAB folders named 'matlibs'.
 
 
-==============================================
-Contact Information:
-==============================================
+## Contact Information:
+
 Author:
 Jason E. Gaudette
 Center for Biomedical Engineering

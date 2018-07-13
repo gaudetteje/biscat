@@ -30,7 +30,7 @@ Subfolders:
 
 BiSCAT is developed and tested on Windows and Mac OS X platforms using modern versions of MATLAB (preferably 2015a or later).  The simulator is not guaranteed to work on every platform or without certain toolboxes available.  Please submit any bugs or issues to the author for tracking.
 
-Some custom MATLAB functions are required to run BiSCAT.  These are available as a separate set of MATLAB libraries named 'matlibs'.
+Some custom MATLAB functions are required to run BiSCAT.  These are available as a separate set of MATLAB libraries found at http://github.com/gaudetteje/matlibs.
 
 
 ## Contact Information:

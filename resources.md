@@ -8,7 +8,7 @@
 
 [4] Gaudette, J. E., “Bio-Inspired Broadband Sonar: Methods for Acoustical Analysis of Bat Echolocation and Computational Modeling of Biosonar Signal Processing” (2014). Simmons JA, advisor.  Biomedical Engineering Theses and Dissertations. Brown Digital Repository. Brown University Library. [Providence, RI] https://doi.org/10.7301/Z0707ZSS
 
-[5] Gaudette, J. E., (2023) Arrayzilla signal processing repository [Source code]. https://github.com/gaudetteje/arrayzilla. URL.
+[5] Gaudette, J. E., (2023) Arrayzilla - Brown University Microphone Array [Source code]. https://github.com/gaudetteje/arrayzilla. URL.
 
 [6] Gaudette, J. E., (2023) The Binaural Spectrogram Correlation and Transformation Receiver (Bi-SCAT) Model [Source code]. https://github.com/gaudetteje/biscat. URL.
 
